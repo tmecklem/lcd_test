@@ -1,0 +1,2 @@
+{targets,[{rpi,[{'nerves/rpi',<<"0.4.0">>}]},
+          {rpi3,[{'nerves/rpi3',<<"0.4.0">>}]}]}.
